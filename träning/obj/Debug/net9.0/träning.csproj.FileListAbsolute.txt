@@ -1,0 +1,14 @@
+C:\Users\anton.faren\Desktop\prog2\träning\träning\bin\Debug\net9.0\träning.exe
+C:\Users\anton.faren\Desktop\prog2\träning\träning\bin\Debug\net9.0\träning.deps.json
+C:\Users\anton.faren\Desktop\prog2\träning\träning\bin\Debug\net9.0\träning.runtimeconfig.json
+C:\Users\anton.faren\Desktop\prog2\träning\träning\bin\Debug\net9.0\träning.dll
+C:\Users\anton.faren\Desktop\prog2\träning\träning\bin\Debug\net9.0\träning.pdb
+C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\träning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\träning.AssemblyInfoInputs.cache
+C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\träning.AssemblyInfo.cs
+C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\träning.csproj.CoreCompileInputs.cache
+C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\träning.dll
+C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\refint\träning.dll
+C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\träning.pdb
+C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\träning.genruntimeconfig.cache
+C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\ref\träning.dll
