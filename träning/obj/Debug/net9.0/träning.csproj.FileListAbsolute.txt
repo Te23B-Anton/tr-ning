@@ -12,3 +12,4 @@ C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\refint\tr�
 C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\träning.pdb
 C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\träning.genruntimeconfig.cache
 C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\ref\träning.dll
+C:\Users\anton.faren\Desktop\prog2\träning\träning\obj\Debug\net9.0\träning.sourcelink.json
